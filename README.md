@@ -13,6 +13,11 @@ Local RAG/vector-search assessment implementation based on `GenAI_RAG_VectorSear
   - Strategy B: mocked generative query expansion, then vector search.
 - Writes `retrieval_benchmark.md` with Markdown tables and JSON output.
 
+## Architecture
+
+- <img width="1200" height="720" alt="image" src="https://github.com/user-attachments/assets/f39f2517-9813-4b22-91e2-974e9d7378ec" />
+
+
 ## Run
 
 ```powershell
