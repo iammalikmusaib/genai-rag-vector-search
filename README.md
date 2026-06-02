@@ -27,6 +27,9 @@ python -m pytest
 
 If pytest is not installed in the active Python environment, install the project requirements first.
 
+<img width="1903" height="988" alt="Screenshot 2026-06-02 195607" src="https://github.com/user-attachments/assets/512a85da-3392-4bd6-8657-def58e94c0a3" />
+
+
 ## Files
 
 - `rag_engine/embeddings.py`: Vertex-style embedding adapter.
